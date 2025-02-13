@@ -1,7 +1,4 @@
 
-
-pip install requests
-
 import requests
 
 API_KEY = 'd7c400146cdd92fdeb56a36aeddfc297'
